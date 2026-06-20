@@ -1,0 +1,1 @@
+# smart_factory_monitoring_system
